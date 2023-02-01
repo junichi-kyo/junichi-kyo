@@ -29,10 +29,12 @@
       <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
       <img src="https://img.shields.io/badge/docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff">
     <br>
-  </div>
-<h1>📬SNS</h1>
-<a href="https://note.com/junichi0829" target="_blank"><img src="https://img.shields.io/badge/DevBlog-238F76?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://twitter.com/junichi0829" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+   </div>
+   <h1>📬SNS</h1>
+      <a href="https://note.com/junichi0829" target="_blank"><img src="https://img.shields.io/badge/DevBlog-238F76?style=flat-square&logo=notion&logoColor=white" />
+   <a href="https://twitter.com/junichi0829" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+   <h1>✉E-mail</h1>
+      <h4>kyo.junichi0829@gmail.com</h4>
 </div>
 
 <!--
