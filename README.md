@@ -31,7 +31,7 @@
     <br>
    </div>
    <h1>✉E-mail</h1>
-      <h4>kyo.junichi0829@gmail.com</h4>
+      <h4>junichi.kyo.dev@gmail.com</h4>
 </div>
 
 <!--
